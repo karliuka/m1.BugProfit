@@ -1,7 +1,6 @@
 <?php
-<!--
 /**
- * Faonni Group
+ * Faonni
  *  
  * NOTICE OF LICENSE
  *
@@ -17,10 +16,9 @@
  * versions in the future.
  * 
  * @package     Faonni_BugProfit
- * @copyright   Copyright (c) 2015 Faonni Group(support@faonni.com) 
+ * @copyright   Copyright (c) 2015 Karliuka Vitalii(karliuka.vitalii@gmail.com) 
  * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
--->
 class Faonni_BugProfit_Helper_Data 
 	extends Mage_Core_Helper_Abstract
 {
